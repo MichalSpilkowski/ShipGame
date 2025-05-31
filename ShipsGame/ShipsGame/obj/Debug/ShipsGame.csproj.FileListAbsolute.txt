@@ -1,0 +1,23 @@
+C:\Users\tzuro\OneDrive\Pulpit\Konspekty - poprawki\Submission3\Lekcja9\ShipsGame\ShipsGame\bin\Debug\ShipsGame.exe.config
+C:\Users\tzuro\OneDrive\Pulpit\Konspekty - poprawki\Submission3\Lekcja9\ShipsGame\ShipsGame\bin\Debug\ShipsGame.exe
+C:\Users\tzuro\OneDrive\Pulpit\Konspekty - poprawki\Submission3\Lekcja9\ShipsGame\ShipsGame\bin\Debug\ShipsGame.pdb
+C:\Users\tzuro\OneDrive\Pulpit\Konspekty - poprawki\Submission3\Lekcja9\ShipsGame\ShipsGame\obj\Debug\ShipsGame.csproj.AssemblyReference.cache
+C:\Users\tzuro\OneDrive\Pulpit\Konspekty - poprawki\Submission3\Lekcja9\ShipsGame\ShipsGame\obj\Debug\ShipsGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\tzuro\OneDrive\Pulpit\Konspekty - poprawki\Submission3\Lekcja9\ShipsGame\ShipsGame\obj\Debug\ShipsGame.Okna.Rozgrywka.resources
+C:\Users\tzuro\OneDrive\Pulpit\Konspekty - poprawki\Submission3\Lekcja9\ShipsGame\ShipsGame\obj\Debug\ShipsGame.Okna.UstawienieStatkow.resources
+C:\Users\tzuro\OneDrive\Pulpit\Konspekty - poprawki\Submission3\Lekcja9\ShipsGame\ShipsGame\obj\Debug\ShipsGame.Properties.Resources.resources
+C:\Users\tzuro\OneDrive\Pulpit\Konspekty - poprawki\Submission3\Lekcja9\ShipsGame\ShipsGame\obj\Debug\ShipsGame.csproj.GenerateResource.cache
+C:\Users\tzuro\OneDrive\Pulpit\Konspekty - poprawki\Submission3\Lekcja9\ShipsGame\ShipsGame\obj\Debug\ShipsGame.csproj.CoreCompileInputs.cache
+C:\Users\tzuro\OneDrive\Pulpit\Konspekty - poprawki\Submission3\Lekcja9\ShipsGame\ShipsGame\obj\Debug\ShipsGame.exe
+C:\Users\tzuro\OneDrive\Pulpit\Konspekty - poprawki\Submission3\Lekcja9\ShipsGame\ShipsGame\obj\Debug\ShipsGame.pdb
+C:\Users\micha\Documents\ShipsGame\ShipsGame\bin\Debug\ShipsGame.exe.config
+C:\Users\micha\Documents\ShipsGame\ShipsGame\bin\Debug\ShipsGame.exe
+C:\Users\micha\Documents\ShipsGame\ShipsGame\bin\Debug\ShipsGame.pdb
+C:\Users\micha\Documents\ShipsGame\ShipsGame\obj\Debug\ShipsGame.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\ShipsGame\ShipsGame\obj\Debug\ShipsGame.Okna.Rozgrywka.resources
+C:\Users\micha\Documents\ShipsGame\ShipsGame\obj\Debug\ShipsGame.Okna.UstawienieStatkow.resources
+C:\Users\micha\Documents\ShipsGame\ShipsGame\obj\Debug\ShipsGame.Properties.Resources.resources
+C:\Users\micha\Documents\ShipsGame\ShipsGame\obj\Debug\ShipsGame.csproj.GenerateResource.cache
+C:\Users\micha\Documents\ShipsGame\ShipsGame\obj\Debug\ShipsGame.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\ShipsGame\ShipsGame\obj\Debug\ShipsGame.exe
+C:\Users\micha\Documents\ShipsGame\ShipsGame\obj\Debug\ShipsGame.pdb
